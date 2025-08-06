@@ -3,8 +3,8 @@
 		"腾讯CDN":"https://dldir1.qq.com/qqfile/qq/QQNT/Windows/QQ_9.9.15_240808_x64_01.exe",
 		"华为CDN":"https://store-drcn.hispace.dbankcloud.cn/dl/appdl/application/apk/ce/cea074d22c784e4ab8a5b19ba8b493a5/com.huawei.appmarket.1908281654.apk?maple=0&trackId=0&distOpEntity=HWSW#enhanced",
 		"阿里CND":"http://download.taobaocdn.com/wireless/taobao4android/latest/701483.apk#enhanced",
-		"天翼云桌面":"https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202030001/CtyunClouddeskUniversal_2.3.0_202030001_x86_20240327104015_Setup.exe"
-		"阿里CND[上行]":"networkpanel://node/#eyJ1cmwiOiJodHRwOi8vdGFvYmFvLmNvbS8iLCJ1cGxvYWQiOnRydWV9##580d3465bdbdc07a00f62a527f041068"
+		"天翼云桌面":"https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202030001/CtyunClouddeskUniversal_2.3.0_202030001_x86_20240327104015_Setup.exe",
+		"阿里CND[上行]":"networkpanel://node/#eyJ1cmwiOiJodHRwOi8vdGFvYmFvLmNvbS8iLCJ1cGxvYWQiOnRydWV9##580d3465bdbdc07a00f62a527f041068",
 		"腾讯CND[上行]":"networkpanel://node/#eyJ1cmwiOiJodHRwOi8vcXEuY29tLyIsInVwbG9hZCI6dHJ1ZX0##0dcede8e37f3fff4d6dd9bd00cfc5c2f"
 	},
 	"运营商":{
